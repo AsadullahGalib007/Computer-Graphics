@@ -7,7 +7,7 @@ Points are calculated at first. Then they are stored in the list. Finally they a
   - Bresenham Midpoint Line
 
 - Line Clipping
-  - Cohen Sutheland
+  - Cohen Sutherland
   - Liang Bersky
   - Window to viewport mapping
 
