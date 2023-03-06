@@ -1,4 +1,4 @@
-# Asadullah Al Galib, CSE-17
+# Asadullah Al Galib, HSTU, CSE-17
 #!/usr/bin/env python3
 import matplotlib.pyplot as plt
 from matplotlib import style

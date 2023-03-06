@@ -1,4 +1,4 @@
-# Asadullah Al Galib, CSE-17
+# Asadullah Al Galib, HSTU, CSE-17
 from turtle import color
 
 import matplotlib.pyplot as plt
