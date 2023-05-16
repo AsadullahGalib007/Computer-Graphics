@@ -45,7 +45,7 @@ def reflection(ch):
              [0, 1]]
         result = np.dot(A, B)
 
-    # w.r.t a line y = -x
+    # w.r.t a line y = x
     elif ch==3:
         A = [[1, 0],
              [0, 1]]
